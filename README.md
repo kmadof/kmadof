@@ -22,9 +22,9 @@
 [<img src="Images/Winkler-Terraform-MEAP-HI.png">](https://www.manning.com/books/terraform-in-action)
 
 ### 👯 Community activities:
-- I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area. I'm a happy owner of Azure DevOps and Azure Pipelines bronze badge 😄
+I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area. I'm a happy owner of Azure DevOps and Azure Pipelines bronze badge 😄
 
-    <a href="https://stackoverflow.com/users/2347999/krzysztof-madej"><img src="https://stackoverflow.com/users/flair/2347999.png" width="208" height="58" alt="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/2347999/krzysztof-madej"><img src="https://stackoverflow.com/users/flair/2347999.png" width="208" height="58" alt="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **kmadof/kmadof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
