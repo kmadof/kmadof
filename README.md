@@ -22,7 +22,9 @@
 [<img src="Images/MCSA_Web_Applications-01.png">](https://www.youracclaim.com/earner/earned/badge/147a6e05-89c1-44bd-8c1f-1d8667e1e7cd)
 
 ### :books: I’m currently reading ...
-[<img src="Images/Winkler-Terraform-MEAP-HI.png">](https://www.manning.com/books/terraform-in-action)
+[<img src="Images/books/Winkler-Terraform-MEAP-HI.png">](https://www.manning.com/books/terraform-in-action)
+[<img src="Images/books/Clear-Atomic-Habits.jpg">](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+[<img src="Images/books/Collins-good-to-great.jpg">](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
 
 ### 👯 Community activities:
 I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area. I'm a happy owner of Azure DevOps and Azure Pipelines bronze badge 😄
