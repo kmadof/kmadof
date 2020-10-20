@@ -21,7 +21,7 @@
 [<img src="Images/azure-developer-associate.png">](https://www.youracclaim.com/earner/earned/badge/91840ac8-442d-451d-8cfe-f3eb51cf9a4e)
 [<img src="Images/MCSA_Web_Applications-01.png">](https://www.youracclaim.com/earner/earned/badge/147a6e05-89c1-44bd-8c1f-1d8667e1e7cd)
 
-### :books: I’m currently reading ...
+### :books: I’m currently reading/listening ...
 [<img src="Images/books/Winkler-Terraform-MEAP-HI.png">](https://www.manning.com/books/terraform-in-action)
 [<img src="Images/books/Clear-Atomic-Habits.jpg">](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 [<img src="Images/books/Collins-good-to-great.jpg">](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
