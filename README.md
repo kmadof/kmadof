@@ -7,10 +7,13 @@
 - Architecture
 - C#/F# programming
 
-### 📫 How to reach me:
-- :memo: [The Code Manual](http://thecodemanual.pl/) - when I share my thoughts and ideas how to make everything with code
-- [LinkedIn profile](https://www.linkedin.com/in/krzysztof-madej/)
-- [Twitter](https://twitter.com/kmadof)
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 ### Industry Certifications
 #### Microsoft
@@ -40,3 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: http://thecodemanual.pl
+[twitter]: https://twitter.com/kmadof
+[linkedin]: https://www.linkedin.com/in/krzysztof-madej/
