@@ -23,8 +23,10 @@
 
 ### :books: I’m currently reading/listening ...
 [<img src="Images/books/Winkler-Terraform-MEAP-HI.png">](https://www.manning.com/books/terraform-in-action)
-[<img src="Images/books/Clear-Atomic-Habits.jpg">](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 [<img src="Images/books/Collins-good-to-great.jpg">](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
+[<img src="Images/books/Rosling-Factfulness.jpg">](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814)
+
+<br> And if you are intered what I already read/listened you can take a look [here](books.md)
 
 ### 👯 Community activities:
 I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area. I'm a happy owner of Azure DevOps and Azure Pipelines bronze badge 😄
