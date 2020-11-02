@@ -24,12 +24,14 @@
 ### :books: I’m currently reading/listening ...
 [<img src="Images/books/Winkler-Terraform-MEAP-HI.png">](https://www.manning.com/books/terraform-in-action)
 [<img src="Images/books/Collins-good-to-great.jpg">](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
-[<img src="Images/books/Rosling-Factfulness.jpg">](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814)
+[<img src="Images/books/jocko_willink_leif_babin_extreme-ownership.jpg">](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)
+
+
 
 <br> And if you are intered what I already read/listened you can take a look [here](books.md)
 
 ### 👯 Community activities:
-I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area. I'm a happy owner of Azure DevOps and Azure Pipelines bronze badge 😄
+I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area (**TOP 19**). I'm a happy owner of Azure DevOps and Azure Pipelines bronze badge 😄
 
 <a href="https://stackoverflow.com/users/2347999/krzysztof-madej"><img src="https://stackoverflow.com/users/flair/2347999.png" width="208" height="58" alt="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
