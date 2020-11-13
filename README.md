@@ -36,8 +36,8 @@ I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzys
 <a href="https://stackoverflow.com/users/2347999/krzysztof-madej"><img src="https://stackoverflow.com/users/flair/2347999.png" width="208" height="58" alt="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 #### PR's
-[Improvement Azure DevOps Logging commands docs](https://github.com/MicrosoftDocs/azure-devops-docs/commit/58ac83a40752fa30e865757dd2245367acc11851)
-[Reported a bug in Azure Pipelines](https://developercommunity2.visualstudio.com/t/and-condition-on-stage-level-is-incorrectly-evaulu/1236160?from=email)
+[Improvement Azure DevOps Logging commands docs](https://github.com/MicrosoftDocs/azure-devops-docs/commit/58ac83a40752fa30e865757dd2245367acc11851) </br>
+[Reported a bug in Azure Pipelines](https://developercommunity2.visualstudio.com/t/and-condition-on-stage-level-is-incorrectly-evaulu/1236160?from=email) </br>
 
 <!--
 **kmadof/kmadof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
