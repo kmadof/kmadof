@@ -31,9 +31,12 @@
 <br> And if you are intered what I already read/listened you can take a look [here](books.md)
 
 ### 👯 Community activities:
-I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area (**TOP 19**). I'm a happy owner of Azure DevOps and Azure Pipelines bronze badge 😄
+I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area (**TOP 16**). I'm a happy owner of Azure DevOps, Azure Pipelines, Azure bronze badge 😄
 
 <a href="https://stackoverflow.com/users/2347999/krzysztof-madej"><img src="https://stackoverflow.com/users/flair/2347999.png" width="208" height="58" alt="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+#### PR's
+[Improvement Azure DevOps Logging commands docs](https://github.com/MicrosoftDocs/azure-devops-docs/commit/58ac83a40752fa30e865757dd2245367acc11851)
 
 <!--
 **kmadof/kmadof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
