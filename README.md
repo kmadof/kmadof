@@ -22,10 +22,10 @@
 [<img src="Images/MCSA_Web_Applications-01.png">](https://www.youracclaim.com/earner/earned/badge/147a6e05-89c1-44bd-8c1f-1d8667e1e7cd)
 
 ### :books: I’m currently reading/listening ...
-[<img src="Images/books/Winkler-Terraform-MEAP-HI.png">](https://www.manning.com/books/terraform-in-action)
-[<img src="Images/books/Collins-good-to-great.jpg">](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
-[<img src="Images/books/jocko_willink_leif_babin_extreme-ownership.jpg">](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)
 
+[<img src="Images/books/jocko_willink_leif_babin_extreme-ownership.jpg">](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)
+[<img src="Images/books/infrastructure_as_code_medium.png">](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357)
+[<img src="Images/books/faber_maslish-siblings-without-rivalry.jpg">](https://www.amazon.com/Siblings-Without-Rivalry-Children-Together-ebook/dp/B007HXL1V0)
 
 
 <br> And if you are intered what I already read/listened you can take a look [here](books.md)
@@ -35,7 +35,7 @@ I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzys
 
 <a href="https://stackoverflow.com/users/2347999/krzysztof-madej"><img src="https://stackoverflow.com/users/flair/2347999.png" width="208" height="58" alt="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-#### PR's
+#### Not only PR's
 [Improvement Azure DevOps Logging commands docs](https://github.com/MicrosoftDocs/azure-devops-docs/commit/58ac83a40752fa30e865757dd2245367acc11851) </br>
 [Reported a bug in Azure Pipelines](https://developercommunity2.visualstudio.com/t/and-condition-on-stage-level-is-incorrectly-evaulu/1236160?from=email) </br>
 
