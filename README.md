@@ -20,7 +20,7 @@
 [<img src="Images/microsoft-certified-devops-engineer-expert.png">](https://www.youracclaim.com/badges/5c909d3a-fb3e-48a3-83f7-e041d4b646a2)
 [<img src="Images/azure-developer-associate.png">](https://www.youracclaim.com/earner/earned/badge/91840ac8-442d-451d-8cfe-f3eb51cf9a4e)
 [<img src="Images/MCSA_Web_Applications-01.png">](https://www.youracclaim.com/earner/earned/badge/147a6e05-89c1-44bd-8c1f-1d8667e1e7cd)
-[<img src="Images/microsoft-certified-devops-engineer-expert.png">](https://www.youracclaim.com/earner/earned/badge/ced22d00-5533-41b8-b2e7-72f5aa61c812)
+[<img src="Images/az-303-microsoft-azure-architect-technologies.png">](https://www.youracclaim.com/earner/earned/badge/ced22d00-5533-41b8-b2e7-72f5aa61c812)
 
 ### :books: I’m currently reading/listening ...
 
