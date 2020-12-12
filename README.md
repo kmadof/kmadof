@@ -26,17 +26,21 @@
 
 [<img src="Images/books/infrastructure_as_code_medium.png">](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357)
 [<img src="Images/books/faber_maslish-siblings-without-rivalry.jpg">](https://www.amazon.com/Siblings-Without-Rivalry-Children-Together-ebook/dp/B007HXL1V0)
-[<img src="Images/books/the_pragmatic_programmer_your_journey_to_mastery.jpg">](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+[<img src="Images/books/this_is_marketing.jpg">](https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/0525540830)
+
 
 
 <br> And if you are intered what I already read/listened you can take a look [here](books.md)
 
 ### 👯 Community activities:
-I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area (**TOP 15**). I'm a happy owner of Azure DevOps, Azure Pipelines, Azure bronze badge 😄
+I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area (**TOP 14**). I'm a happy owner of Azure DevOps, Azure Pipelines, Azure bronze badge 😄
 
 <a href="https://stackoverflow.com/users/2347999/krzysztof-madej"><img src="https://stackoverflow.com/users/flair/2347999.png" width="208" height="58" alt="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 #### Not only PR's
+
+### 2020
+[Reported a bug in Azure DevOps Release pipelines](https://developercommunity.visualstudio.com/content/problem/1278001/view-yaml-doesnt-work-for-releases.html) </br>
 [Improvement Azure DevOps documentation: Detailed Manual build reason](https://github.com/MicrosoftDocs/azure-devops-docs/pull/9709) </br>
 [Improvement Azure DevOps Logging commands docs](https://github.com/MicrosoftDocs/azure-devops-docs/commit/58ac83a40752fa30e865757dd2245367acc11851) </br>
 [Reported a bug in Azure Pipelines](https://developercommunity2.visualstudio.com/t/and-condition-on-stage-level-is-incorrectly-evaulu/1236160?from=email) </br>
