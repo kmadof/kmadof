@@ -22,11 +22,17 @@
 ### Industry Certifications
 #### Microsoft
 [<img src="Images/microsoft-certified-devops-engineer-expert.png">](https://learn.microsoft.com/api/credentials/share/en-us/KrzysztofMadej/5175D73D2D0AD037?sharingId=66DE675034B61481)
-[<img src="Images/azure-developer-associate.png">](https://learn.microsoft.com/api/credentials/share/en-us/KrzysztofMadej/967CA18B07734ED6?sharingId=66DE675034B61481)
 [<img src="Images/azure-solutions-architect-expert.png">](https://learn.microsoft.com/api/credentials/share/en-us/KrzysztofMadej/76031DA3EE5228A0?sharingId=66DE675034B61481)
+[<img src="Images/azure-developer-associate.png">](https://learn.microsoft.com/api/credentials/share/en-us/KrzysztofMadej/967CA18B07734ED6?sharingId=66DE675034B61481)
 
 ### 👯 Community activities:
-I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area (**TOP 14**). I'm a happy owner of Azure DevOps, Azure Pipelines, Azure bronze badge 😄
+I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps (**TOP 4**) and Github Actions categories (**TOP 9**).
+
+I have following badges:
+- 🥇 in Azure DevOps and Azure Pipelines
+- 🥈 in Github Action and Azure
+- 🥉 in C# and dotnet core
+
 
 <a href="https://stackoverflow.com/users/2347999/krzysztof-madej"><img src="https://stackoverflow.com/users/flair/2347999.png" width="208" height="58" alt="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
