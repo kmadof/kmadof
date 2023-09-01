@@ -7,13 +7,15 @@
 - :cloud: Azure
 - Cloud infrastracture
 
-### Connect with me:
+### Where to find me :
 
-[<img align="left" alt="thecodemanual.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kmadof | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Krzysztof Madej | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<p><a href="https://github.com/kmadof" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="http://thecodemanual.pl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/The%20Code%20Manual-d4a259" /></a>
+<a href="https://github.com/kmadof" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/kmadof" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/krzysztof-madej/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/2347999/krzysztof-madej?tab=profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+<a href="https://github.com/kmadof/devops-manual" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" /></a>
+<a href="https://github.com/kmadof/github-actions-manual" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /></a>
 
 <br />
 
