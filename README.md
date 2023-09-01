@@ -21,20 +21,9 @@
 
 ### Industry Certifications
 #### Microsoft
-[<img src="Images/microsoft-certified-devops-engineer-expert.png">](https://www.youracclaim.com/badges/5c909d3a-fb3e-48a3-83f7-e041d4b646a2)
-[<img src="Images/azure-developer-associate.png">](https://www.youracclaim.com/earner/earned/badge/91840ac8-442d-451d-8cfe-f3eb51cf9a4e)
-[<img src="Images/MCSA_Web_Applications-01.png">](https://www.youracclaim.com/earner/earned/badge/147a6e05-89c1-44bd-8c1f-1d8667e1e7cd)
-[<img src="Images/az-303-microsoft-azure-architect-technologies.png">](https://www.youracclaim.com/earner/earned/badge/ced22d00-5533-41b8-b2e7-72f5aa61c812)
-
-### :books: I’m currently reading/listening ...
-
-[<img src="Images/books/infrastructure_as_code_medium.png">](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357)
-[<img src="Images/books/faber_maslish-siblings-without-rivalry.jpg">](https://www.amazon.com/Siblings-Without-Rivalry-Children-Together-ebook/dp/B007HXL1V0)
-[<img src="Images/books/this_is_marketing.jpg">](https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/0525540830)
-
-
-
-<br> And if you are intered what I already read/listened you can take a look [here](books.md)
+[<img src="Images/microsoft-certified-devops-engineer-expert.png">](https://learn.microsoft.com/api/credentials/share/en-us/KrzysztofMadej/5175D73D2D0AD037?sharingId=66DE675034B61481)
+[<img src="Images/azure-developer-associate.png">](https://learn.microsoft.com/api/credentials/share/en-us/KrzysztofMadej/967CA18B07734ED6?sharingId=66DE675034B61481)
+[<img src="Images/azure-solutions-architect-expert.png">](https://learn.microsoft.com/api/credentials/share/en-us/KrzysztofMadej/76031DA3EE5228A0?sharingId=66DE675034B61481)
 
 ### 👯 Community activities:
 I'm active user on [Stackoverflow](https://stackoverflow.com/users/2347999/krzysztof-madej) in Azure DevOps area (**TOP 14**). I'm a happy owner of Azure DevOps, Azure Pipelines, Azure bronze badge 😄
