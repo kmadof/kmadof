@@ -36,7 +36,11 @@ I have following badges:
 
 <a href="https://stackoverflow.com/users/2347999/krzysztof-madej"><img src="https://stackoverflow.com/users/flair/2347999.png" width="208" height="58" alt="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-#### Not only PR's
+#### Meetup events
+
+- [Azure Funcions - fight for minimal downtime](https://www.youtube.com/watch?v=0KL8qgj3Wag&t=23s&ab_channel=AzureUserGroupPoland) 🇵🇱
+
+#### Some PR's and reported bugs
 
 ### 2020
 [Reported a bug in Azure DevOps Release pipelines](https://developercommunity.visualstudio.com/content/problem/1278001/view-yaml-doesnt-work-for-releases.html) </br>
