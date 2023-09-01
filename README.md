@@ -1,17 +1,19 @@
-### Hi there 👋 I'm Krzysztof Madej. I'm a .NET software developer implementing Azure cloud based solutions and improving DevOps practices using Azure DevOps.
+### Hi there 👋 I'm Krzysztof Madej. I am an engineer with a passion for learning by helping others. My main areas of interest are Azure DevOps, Github Workflows and my favorite cloud - guess Azure!
 
 
 ### Interests
-- :cloud: Azure
 - Azure DevOps
-- Architecture
-- C#/F# programming
+- Github Workflows
+- :cloud: Azure
+- Cloud infrastracture
 
 ### Connect with me:
 
 [<img align="left" alt="thecodemanual.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kmadof | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Krzysztof Madej | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<p><a href="https://github.com/kmadof" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 <br />
 
