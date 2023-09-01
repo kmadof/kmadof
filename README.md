@@ -45,11 +45,11 @@ Top 5️⃣ of most scored repiles in **Azure DevOps**
 - [Publish a pipeline Azure Devops code coverage report](https://stackoverflow.com/questions/64592534/publish-a-pipeline-azure-devops-code-coverage-report/64597209#64597209)
 
 Top 5️⃣ of most scored repiles in **Github Actions**
-- []()
-- []()
-- []()
-- []()
-- []()
+- [run a bash script located in public folder github actions](https://stackoverflow.com/questions/65609835/run-a-bash-script-located-in-public-folder-github-actions/65610357#65610357)
+- [In a github actions workflow, is there a way to have multiple jobs reuse the same setup?](https://stackoverflow.com/questions/65242830/in-a-github-actions-workflow-is-there-a-way-to-have-multiple-jobs-reuse-the-sam/65243912#65243912)
+- [Github action job fire when previous job skipped](https://stackoverflow.com/questions/69354003/github-action-job-fire-when-previous-job-skipped/69354134#69354134)
+- [Github actions job timeout](https://stackoverflow.com/questions/68187987/github-actions-job-timeout/68192519#68192519)
+- [How to skip a configuration of a matrix with GitHub actions?](https://stackoverflow.com/questions/68994484/how-to-skip-a-configuration-of-a-matrix-with-github-actions/68994907#68994907)
   
 #### Meetup events
 
