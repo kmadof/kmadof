@@ -36,6 +36,21 @@ I have following badges:
 
 <a href="https://stackoverflow.com/users/2347999/krzysztof-madej"><img src="https://stackoverflow.com/users/flair/2347999.png" width="208" height="58" alt="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Krzysztof Madej at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+Top 5️⃣ of most scored repiles in **Azure DevOps**
+
+- [how can I use IF ELSE in variables of azure DevOps yaml pipeline with variable group?](https://stackoverflow.com/questions/58823004/how-can-i-use-if-else-in-variables-of-azure-devops-yaml-pipeline-with-variable-g/64017113#64017113)
+- [How to resolve "No hosted parallelism has been purchased or granted" in free tier?](https://stackoverflow.com/questions/68405027/how-to-resolve-no-hosted-parallelism-has-been-purchased-or-granted-in-free-tie/68405383#68405383)
+- [Is it possible to cancel a Azure DevOps pipeline Job programmatically?](https://stackoverflow.com/questions/62044055/is-it-possible-to-cancel-a-azure-devops-pipeline-job-programmatically/62045367#62045367)
+- [How to securely login in Az CLI from a DevOps Pipeline](https://stackoverflow.com/questions/64502148/how-to-securely-login-in-az-cli-from-a-devops-pipeline/64502183#64502183)
+- [Publish a pipeline Azure Devops code coverage report](https://stackoverflow.com/questions/64592534/publish-a-pipeline-azure-devops-code-coverage-report/64597209#64597209)
+
+Top 5️⃣ of most scored repiles in **Github Actions**
+- []()
+- []()
+- []()
+- []()
+- []()
+  
 #### Meetup events
 
 - [Azure Funcions - fight for minimal downtime](https://www.youtube.com/watch?v=0KL8qgj3Wag&t=23s&ab_channel=AzureUserGroupPoland) 🇵🇱
