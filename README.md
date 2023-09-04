@@ -33,7 +33,7 @@ I have following badges:
 - 🥈 in Github Action and Azure
 - 🥉 in C# and dotnet core
 
-I', also recozgnied member of following **Stackoverflow Collectives**
+I'm also recozgnied member of following **Stackoverflow Collectives**
 - CI/CD
 - [Microsoft Azure](https://azure.microsoft.com/en-us/blog/join-the-azure-collective-on-stack-overflow/#:~:text=Recognized%20Members%20are%20acknowledged%20on,developers%20to%20work%20better%20together.)
 
