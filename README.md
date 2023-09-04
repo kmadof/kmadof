@@ -61,7 +61,6 @@ Top 5️⃣ of most scored repiles in **Github Actions**
 
 #### Some PR's and reported bugs
 
-### 2020
 [Reported a bug in Azure DevOps Release pipelines](https://developercommunity.visualstudio.com/content/problem/1278001/view-yaml-doesnt-work-for-releases.html) </br>
 [Improvement Azure DevOps documentation: Detailed Manual build reason](https://github.com/MicrosoftDocs/azure-devops-docs/pull/9709) </br>
 [Improvement Azure DevOps Logging commands docs](https://github.com/MicrosoftDocs/azure-devops-docs/commit/58ac83a40752fa30e865757dd2245367acc11851) </br>
